@@ -49,4 +49,4 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ---
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Enrico%20Ferreira%20dos%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsavaccini/)](https://www.linkedin.com/in/gabrielsavaccini/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Gabriel%20Savaccini%20dos%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsavaccini/)](https://www.linkedin.com/in/gabrielsavaccini/)
