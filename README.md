@@ -37,6 +37,8 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ---
 
+![Apple iPhone 11 Pro Max Presentation](https://user-images.githubusercontent.com/98740091/180594916-458fe550-7805-4eac-b781-f332a74d0d79.png)
+
 ### 😀 Contribua para esse projeto !
 
 1. Faça um **fork** do projeto.
